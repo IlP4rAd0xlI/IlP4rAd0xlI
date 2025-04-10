@@ -1,6 +1,6 @@
 # Gif Test
 
-![](https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/rainy_city.gif)
+![](https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/rainy_city_day.gif)
 
 48 65 6C 6C 6F  57 6F 72 6C 64  
 .... . .-.. .-.. ---    .-- --- .-. .-.. -..  

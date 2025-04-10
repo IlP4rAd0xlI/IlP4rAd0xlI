@@ -1,8 +1,9 @@
 # Test
 
 
-<video autoplay loop muted width="500" height="300" src="[https://media1.giphy.com/media/2rqEdFfkMzXmo/giphy.mp4?cid=790b76118e85130b6027e42ff5aca28cf62871c4e09f8306&rid=giphy.mp4&ct=g](https://br.pinterest.com/pin/1050746156786132061/)">
-<iframe src="https://br.pinterest.com/pin/1050746156786132061/">  
+ <video controls autoplay>
+  <source src="[movie.mp4](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)" type="video/mp4">
+</video> 
 
 48 65 6C 6C 6F  57 6F 72 6C 64  
 .... . .-.. .-.. ---    .-- --- .-. .-.. -..  

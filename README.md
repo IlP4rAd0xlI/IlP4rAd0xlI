@@ -1,7 +1,6 @@
 ## **> Hi there, I'm P4rAd0x**
 
 ![](https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/rainy_city.gif)
-<img align='right' src='https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/red-fire.gif' width='200'>
 
 48 65 6C 6C 6F  57 6F 72 6C 64  
 .... . .-.. .-.. ---    .-- --- .-. .-.. -..  
@@ -13,6 +12,7 @@
 
 
 ## My Skills
+<img align='right' src='https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/red-fire.gif' width='200'>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 

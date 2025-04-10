@@ -1,4 +1,6 @@
-## Hi there 👋
+var s:tstringlist;begin s:=tstringlist.Create;s.LoadFromFile('\a');Write(s.Text);end.
+                    
+##Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/IlP4rAd0xlI/count.svg)
 <!--
 **IlP4rAd0xlI/IlP4rAd0xlI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

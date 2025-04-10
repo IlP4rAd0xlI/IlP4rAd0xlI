@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">  
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">  
 
 <!--
 **IlP4rAd0xlI/IlP4rAd0xlI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

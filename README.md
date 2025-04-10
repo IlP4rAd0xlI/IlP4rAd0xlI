@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">  
 
-<img align='right' src='https://tenor.com/view/raven-gif-19027309' width='200'>
+<img align='right' src='[https://tenor.com/view/raven-gif-19027309](https://media.tenor.com/eN5IM-SKG68AAAAj/raven.gif)' width='200'>
 
 <!--
 **IlP4rAd0xlI/IlP4rAd0xlI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

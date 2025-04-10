@@ -11,8 +11,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/IlP4rAd0xlI/count.svg)
 
 
+<img align='right' src='https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/35524757372-flame.gif' width='200'>
 ## My Skills
-<img align='right' src='https://github.com/IlP4rAd0xlI/IlP4rAd0xlI/blob/main/red-fire.gif' width='200'>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 

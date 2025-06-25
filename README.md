@@ -46,6 +46,4 @@
 
 ###
 
-<a href="https://coff.ee/p4rad0x">
-  <img style="width:20%;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.3YgtWe21-Ii1Y36e4wH3pQHaD4%26r%3D0%26pid%3DApi&f=1&ipt=42403c553016f4fecfd83b5a0d356a92659007969d2209dfb713294f9bd6bd39&ipo=images" />
-</a>
+<a href="https://coff.ee/p4rad0x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
